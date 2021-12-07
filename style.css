@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body {
+    background-size: 640px;
+    background:linear-gradient( rgba(0, 0, 0, 0.5) 100%, rgba(0, 0, 0, 0.5)100%), url(https://image.freepik.com/free-vector/business-decisions-concept-illustration_114360-4096.jpg);
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.card {
+    margin: 1.2rem auto;
+    width: 36rem;
+    padding: 2.4rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 2.4rem;
+    font-size: 1.2rem;
+}
+
+.form-control {
+    font-size: 1.4rem;
+}
+
+button {
+    margin-top: 3rem;
+}
+
+.index {
+    margin-top: 18rem;
+}
+
+.header {
+    text-align: center;
+    font-size: 2.4rem;
+    text-transform: uppercase;
+    margin-bottom: 2.4rem;
+}
+
+.pay-off {
+    width: 72rem;
+    margin-top: 12rem;
+}
+
+.table {
+    margin-top: 1.6rem;
+}
+
+.result {
+    margin-top: 18rem;
+    text-align: center;
+    width: 48rem;
+    padding: 4.4rem;
+}
+
+.form {
+    margin-top: 3.2rem;
+}
